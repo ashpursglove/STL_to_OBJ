@@ -1,0 +1,8 @@
+# GUI
+PyQt5==5.15.10
+
+# Geometry / mesh handling
+trimesh==4.0.5
+
+# Numerical backend used by trimesh
+numpy==1.26.4
