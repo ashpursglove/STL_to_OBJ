@@ -24,7 +24,7 @@ Just files going in, files coming out. Like it should be.
 
 ## Exe Available in the Releases Section
 
-Click here just to get the exe. Life is good!
+Click [**here**](https://github.com/ashpursglove/STL_to_OBJ/releases/) to just get the exe. Life is good! 
 
 
 ## Installation From Source
