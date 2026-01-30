@@ -19,7 +19,12 @@ Just files going in, files coming out. Like it should be.
 
 ---
 
-## Installation
+## Exe Available in the Releases Section
+
+Click here just to get the exe. Life is good!
+
+
+## Installation From Source
 
 ### 1) Clone the repo
 You know the drill. Download it, clone it, summon it via rituals. Whatever.
@@ -33,8 +38,6 @@ Use the included `requirements.txt`:
 Run the main script:
 
 - `python main.py`
-
-(Or whatever you named it. If you renamed it to `final_final_v7_REAL.py`, I can’t help you.)
 
 ---
 
