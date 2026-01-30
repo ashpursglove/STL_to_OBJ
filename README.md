@@ -2,7 +2,10 @@
 
 ### Because sometimes you just want to turn an `.stl` into an `.obj` without going to sites that give your PC the binary from of cancer.
 
-This is a **local-only** STL → OBJ converter with a **proper GUI**, built in **PyQt5** using **trimesh**.  
+<img width="1082" height="787" alt="image" src="https://github.com/user-attachments/assets/be47de37-3406-49ed-9785-a9a335624f76" />
+
+
+### This is a **local-only** STL → OBJ converter with a **proper GUI**, built in **PyQt5** using **trimesh**.  
 
 No cloud. No accounts. No telemetry. No “Sign in to export”.  
 Just files going in, files coming out. Like it should be.
@@ -44,6 +47,8 @@ Run the main script:
 ## How To Use It (In Painfully Helpful Detail)
 
 ### Step 1: Add STL files
+<img width="448" height="358" alt="image" src="https://github.com/user-attachments/assets/ac6d9e58-a7df-4958-b703-6eafff79cba2" />
+
 
 You’ve got options:
 
@@ -61,6 +66,7 @@ Tips:
 ---
 
 ### Step 2: Output folder
+<img width="453" height="197" alt="image" src="https://github.com/user-attachments/assets/35f25f1d-edc5-463a-b108-e570b8657e4b" />
 
 In the **Output** section:
 
@@ -104,6 +110,7 @@ If you select Custom name but leave the box empty, the app will complain. Correc
 ---
 
 ### Step 4: Options (the spicy stuff)
+<img width="426" height="162" alt="image" src="https://github.com/user-attachments/assets/a2cab158-a7d9-4128-a4cd-75c97b8a828e" />
 
 All the “make the file not terrible” options live on the right.
 
@@ -142,6 +149,8 @@ Turn this on if:
 - You’re moving between tools with different coordinate conventions
 
 #### Axis flips (Flip X / Flip Y / Flip Z)
+<img width="617" height="176" alt="image" src="https://github.com/user-attachments/assets/0fe69137-3e68-4bc9-ab45-6f7c0b79ca26" />
+
 What it does:
 - Mirrors the model on that axis
 
@@ -171,6 +180,8 @@ If you don’t know what units your STL is in:
 ---
 
 ### Step 5: Selected file stats (aka “what am I looking at?”)
+<img width="617" height="216" alt="image" src="https://github.com/user-attachments/assets/423bc1b6-06c7-4a86-82dd-a477e4066c8b" />
+
 
 When you select a file, the **Selected file stats** panel shows:
 
@@ -189,6 +200,8 @@ This is useful for:
 ---
 
 ### Step 6: Convert
+<img width="456" height="157" alt="image" src="https://github.com/user-attachments/assets/57a63893-23c9-4588-8710-7bc5d0fdf343" />
+
 
 Hit **Convert Selected (or All)**:
 
@@ -204,6 +217,7 @@ You’ll see:
 If you need to stop:
 - Click **Cancel**
 - It will stop after the current file finishes (safe cancellation, not “pull the power cable” cancellation)
+<img width="1007" height="338" alt="image" src="https://github.com/user-attachments/assets/dde2ebe3-197f-4542-95e7-7571aa5384aa" />
 
 ---
 
@@ -247,12 +261,3 @@ MIT
 Go crazy with it!
 
 ---
-
-## Screenshot / GIF section
-Add your screenshots here so people instantly understand the vibe:
-- The dark navy UI
-- The file list with drag/drop
-- The options panel
-- The log output after conversion
-
-Because nobody reads. They just scroll and judge you.
