@@ -1,9 +1,8 @@
-# STL → OBJ Converter (PyQt5)
+# STL → OBJ Converter
 
-Because sometimes you just want to turn an `.stl` into an `.obj` without starting a Blender pilgrimage, learning 14 hotkeys for “rotate”, and accidentally becoming a full-time 3D monk.
+### Because sometimes you just want to turn an `.stl` into an `.obj` without going to sites that give your PC the binary from of cancer.
 
 This is a **local-only** STL → OBJ converter with a **proper GUI**, built in **PyQt5** using **trimesh**.  
-Dark navy + orange theme included, because grey UI is how joy goes to die.
 
 No cloud. No accounts. No telemetry. No “Sign in to export”.  
 Just files going in, files coming out. Like it should be.
